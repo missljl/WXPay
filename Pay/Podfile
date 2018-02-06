@@ -1,0 +1,7 @@
+platform :ios, '9.0'
+
+target “Pay” do
+pod 'WechatOpenSDK'
+pod ‘AFNetworking’
+
+end
